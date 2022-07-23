@@ -9,13 +9,13 @@ We've seen YouTube by Google pushed their premium services for a long time. And 
 <!-- MPS_INTROPAGE:BEGIN FIGURE SECTION -->
 <div align="left">
 
-<br>[![codenamedpktbusiness_f1](https://raw.githubusercontent.com/codenamedpktbusiness/codenamedpktbusiness/main/bin/pictures/yt.promo.page.ars.jpg)](#readme)
+<br>[![codenamedpktbusiness_f1](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.promo.page.ars.jpg)](#readme)
 Figure 1 YouTube subscription promotion page for Argentina area</br>
-<br>[![codenamedpktbusiness_f2](https://raw.githubusercontent.com/codenamedpktbusiness/codenamedpktbusiness/main/bin/pictures/yt.red.plans.ars.jpg)](#readme)
+<br>[![codenamedpktbusiness_f2](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.plans.ars.jpg)](#readme)
 Figure 2 Subscription plans for Argentina area, YouTube</br>
-<br>[![codenamedpktbusiness_f3](https://raw.githubusercontent.com/codenamedpktbusiness/codenamedpktbusiness/main/bin/pictures/yt.red.individual.ars.hkd.jpg)](#readme)
+<br>[![codenamedpktbusiness_f3](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.individual.ars.hkd.jpg)](#readme)
 Figure 3 Currency conversion for YouTube's individual plan to my home currency, shown in HKD, from Google search</br>
-<br>[![codenamedpktbusiness_f4](https://raw.githubusercontent.com/codenamedpktbusiness/codenamedpktbusiness/main/bin/pictures/yt.red.family.ars.hkd.jpg)](#readme)
+<br>[![codenamedpktbusiness_f4](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.family.ars.hkd.jpg)](#readme)
 Figure 4 Currency conversion for YouTube's family plan to my home currency, shown in HKD, from Google search</br>
 
 </div>
