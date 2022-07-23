@@ -10,16 +10,16 @@ We've seen YouTube by Google pushed their premium services for a long time. And 
 <div align="left">
 
 
-[![codenamedpktbusiness_f1](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.promo.page.ars.jpg)](#readme)
+[[codenamedpktbusiness_f1](/bin/pictures/yt.promo.page.ars.jpg)
 <p1>Figure 1 YouTube subscription promotion page for Argentina area </p1>
 
-[![codenamedpktbusiness_f2](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.plans.ars.jpg)](#readme)
+![codenamedpktbusiness_f2](/bin/pictures/yt.red.plans.ars.jpg)
 <p2>Figure 2 Subscription plans for Argentina area, YouTube </p2>
 
-[![codenamedpktbusiness_f3](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.individual.ars.hkd.jpg)](#readme)
+![codenamedpktbusiness_f2](/bin/pictures/yt.red.individual.ars.hkd.jpg)
 <p3>Figure 3 Currency conversion for YouTube's individual plan to my home currency, shown in HKD, from Google search </p3>
 
-[![codenamedpktbusiness_f4](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.family.ars.hkd.jpg)](#readme)
+![codenamedpktbusiness_f4](/bin/pictures/yt.red.family.ars.hkd.jpg)
 <p4>Figure 4 Currency conversion for YouTube's family plan to my home currency, shown in HKD, from Google search </p4>
 
 </div>
