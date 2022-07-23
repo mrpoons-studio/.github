@@ -10,7 +10,7 @@ We've seen YouTube by Google pushed their premium services for a long time. And 
 <div align="left">
 
 
-[[codenamedpktbusiness_f1](/bin/pictures/yt.promo.page.ars.jpg)
+![codenamedpktbusiness_f1](/bin/pictures/yt.promo.page.ars.jpg)
 <p1>Figure 1 YouTube subscription promotion page for Argentina area </p1>
 
 ![codenamedpktbusiness_f2](/bin/pictures/yt.red.plans.ars.jpg)
