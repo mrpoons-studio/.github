@@ -9,20 +9,24 @@ We've seen YouTube by Google pushed their premium services for a long time. And 
 <!-- MPS_INTROPAGE:BEGIN FIGURE SECTION -->
 <div align="left">
 
-<p>[![codenamedpktbusiness_f1](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.promo.page.ars.jpg)](#readme)
-Figure 1 YouTube subscription promotion page for Argentina area</p>
-<p>[![codenamedpktbusiness_f2](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.plans.ars.jpg)](#readme)
-Figure 2 Subscription plans for Argentina area, YouTube</p>
-<p>[![codenamedpktbusiness_f3](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.individual.ars.hkd.jpg)](#readme)
-Figure 3 Currency conversion for YouTube's individual plan to my home currency, shown in HKD, from Google search</p>
+
+[![codenamedpktbusiness_f1](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.promo.page.ars.jpg)](#readme)
+<p1>Figure 1 YouTube subscription promotion page for Argentina area </p1>
+
+[![codenamedpktbusiness_f2](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.plans.ars.jpg)](#readme)
+<p2>Figure 2 Subscription plans for Argentina area, YouTube </p2>
+
+[![codenamedpktbusiness_f3](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.individual.ars.hkd.jpg)](#readme)
+<p3>Figure 3 Currency conversion for YouTube's individual plan to my home currency, shown in HKD, from Google search </p3>
+
 [![codenamedpktbusiness_f4](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.family.ars.hkd.jpg)](#readme)
-<p>Figure 4 Currency conversion for YouTube's family plan to my home currency, shown in HKD, from Google search</p>
+<p4>Figure 4 Currency conversion for YouTube's family plan to my home currency, shown in HKD, from Google search </p4>
 
 </div>
 <!-- MPS_INTROPAGE:END FIGURE SECTION -->
 
 As you can see the gap difference on YouTube Premium, we see we paid lots of money but they are not cheap in every country except ultra low currency rates compared with HKD, USD, South Korean Won and ARS, Argentina Pesos. With cloud providers like Big 3 tech companies, Microsoft with GitHub, Google and Amazon.
-They are expensive much higher there. For GitHub Enterprise Cloud, USD$231.00 annually, or, for personal developer, USD$4.00 every month with Pro subscription. Else you may apply for free Teams plan if you are non-profit authority but lots of heavy verification of eligibility.
+They are expensive much higher there. For GitHub Enterprise Cloud, billed USD$231.00 annually per user, or, for personal developer, billed USD$4.00 every month with Pro subscription. Else you may apply for free Teams plan if you are non-profit authorities but lots of heavy verification of eligibility.
 Therefore we created Mr. Poon's Studio there.
 
 # Who we are?
@@ -49,3 +53,4 @@ Some are having violent tendencies, or always rejected to shower as they thought
 
 <p>Mr. Poon's Studio by Alice King Tai Poon, with deep love productiom from Father and Mother in Heaven © 2022 </p>
 <p>Job Enquiry :  <a id="my.email" name="pkt_1" href="mailto:pkt_1@yahoo.com.hk">Find me here.</a></p>
+<p>Note: May respond slowly as I am fighting undesirable ads. Plus having my post on Monday to Friday, from 8:29am to 4:29pm.</p>
