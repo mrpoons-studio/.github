@@ -52,6 +52,6 @@ The people included, mainly schizophrenia spectrum, as known as mentally brokene
 Some are having violent tendencies, or always rejected to shower as they thought that taking shower is troubled thing here and some of them with delayed symptom, usually happened in ADHD, intullectual disordered rehabilitators.
 
 <p4 id="copyright">Mr. Poon's Stdio by Alice King Tai Poon, with deep love productiom from Father and Mother in Heaven © 2022 </p4>
+<br id="contact">Job Enquiry :  <a id="my.email" name="pkt_1" href="mailto:pkt_1@yahoo.com.hk">Find me here.</a></br>
 
-<p5 id="contact">Job Enquiry :  <a id="my.email" name="pkt_1" href="mailto:pkt_1@yahoo.com.hk">Find me here.</a></p5>
-<p6 id="ps">Note: May respond slowly as I am fighting undesirable ads. Plus having my post on Monday to Friday, from 8:29am to 4:29pm.</p6>
+<p5 id="ps">Note: May respond slowly as I am fighting undesirable ads. Plus having my post on Monday to Friday, from 8:29am to 4:29pm.</p5>
