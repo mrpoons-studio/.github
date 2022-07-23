@@ -47,4 +47,5 @@ I am always clean the venues in my group with outside area, often needs watering
 The people included, mainly schizophrenia spectrum, as known as mentally brokened, which will happy or sad suddenly sometimes, even cries; ADHD, intelleuctal disorder, and someones will have servere symptoms as I said before. So do not differ them with your actions. Yes, most of collagues lived in rehabilitation living training facilities as lots of my collagues have no parents and cannot take care themselves. Lots of living facilities I said before, mainly cannot shower properly themselves, and have bad mood when they had some arguing, usually borrowing money exchanging themselves.
 Some are having violent tendencies, or always rejected to shower as they thought that taking shower is troubled thing here and some of them with delayed symptom, usually happened in ADHD, intullectual disordered rehabilitators.
 
-Mr. Poon's Studio © 2022
+Mr. Poon's Studio by Alice King Tai Poon, with deep love productiom from Father and Mother in Heaven © 2022
+Job Enquiry: 
