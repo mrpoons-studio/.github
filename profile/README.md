@@ -9,14 +9,14 @@ We've seen YouTube by Google pushed their premium services for a long time. And 
 <!-- MPS_INTROPAGE:BEGIN FIGURE SECTION -->
 <div align="left">
 
-<br>[![codenamedpktbusiness_f1](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.promo.page.ars.jpg)](#readme)
-Figure 1 YouTube subscription promotion page for Argentina area</br>
-<br>[![codenamedpktbusiness_f2](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.plans.ars.jpg)](#readme)
-Figure 2 Subscription plans for Argentina area, YouTube</br>
-<br>[![codenamedpktbusiness_f3](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.individual.ars.hkd.jpg)](#readme)
-Figure 3 Currency conversion for YouTube's individual plan to my home currency, shown in HKD, from Google search</br>
-<br>[![codenamedpktbusiness_f4](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.family.ars.hkd.jpg)](#readme)
-Figure 4 Currency conversion for YouTube's family plan to my home currency, shown in HKD, from Google search</br>
+<p>[![codenamedpktbusiness_f1](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.promo.page.ars.jpg)](#readme)
+Figure 1 YouTube subscription promotion page for Argentina area</p>
+<p>[![codenamedpktbusiness_f2](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.plans.ars.jpg)](#readme)
+Figure 2 Subscription plans for Argentina area, YouTube</p>
+<p>[![codenamedpktbusiness_f3](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.individual.ars.hkd.jpg)](#readme)
+Figure 3 Currency conversion for YouTube's individual plan to my home currency, shown in HKD, from Google search</p>
+[![codenamedpktbusiness_f4](https://raw.githubusercontent.com/codenamedpktbusiness/.github/main/bin/pictures/yt.red.family.ars.hkd.jpg)](#readme)
+<p>Figure 4 Currency conversion for YouTube's family plan to my home currency, shown in HKD, from Google search</p>
 
 </div>
 <!-- MPS_INTROPAGE:END FIGURE SECTION -->
@@ -47,5 +47,5 @@ I am always clean the venues in my group with outside area, often needs watering
 The people included, mainly schizophrenia spectrum, as known as mentally brokened, which will happy or sad suddenly sometimes, even cries; ADHD, intelleuctal disorder, and someones will have servere symptoms as I said before. So do not differ them with your actions. Yes, most of collagues lived in rehabilitation living training facilities as lots of my collagues have no parents and cannot take care themselves. Lots of living facilities I said before, mainly cannot shower properly themselves, and have bad mood when they had some arguing, usually borrowing money exchanging themselves.
 Some are having violent tendencies, or always rejected to shower as they thought that taking shower is troubled thing here and some of them with delayed symptom, usually happened in ADHD, intullectual disordered rehabilitators.
 
-Mr. Poon's Studio by Alice King Tai Poon, with deep love productiom from Father and Mother in Heaven © 2022
-Job Enquiry: 
+<p>Mr. Poon's Studio by Alice King Tai Poon, with deep love productiom from Father and Mother in Heaven © 2022 </p>
+<p>Job Enquiry :  <a id="my.email" name="pkt_1" href="mailto:pkt_1@yahoo.com.hk">Find me here.</a></p>
