@@ -1,5 +1,6 @@
-# @codenamedpktbusiness 的 GitHub 企業檔案公開簡介
+# 歡迎來臨泰哥工作室 （@codenamedpktbusiness）
 
-簡介由景泰哥哥創立的泰哥工作室的工作。說明我們如何當今市場的商業 App 和訂閱服務目前那麼高昂費用困局下，景泰哥哥如何利用自動化編程工作，為低收入和經濟、精神方面有困難家庭，提供收費低廉，甚至免費的純科技支援服務（含智能手機服務）。
+由業餘系統管理業務員和代碼修改者景泰哥哥全力創立的泰哥工作室。
+本工作為室會說明，我們如何當今市場的商業 App 和訂閱服務目前那麼高昂費用困局下，景泰哥哥如何利用自動化編程工作，為低收入和經濟、精神方面有困難家庭，提供收費低廉，甚至免費的純科技支援服務（含智能手機服務）。
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/codenamedpktbusiness/.github ">@codenamedpktbusiness 的 GitHub 企業檔案簡介</a>由<a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/codenamedpktbusiness">泰哥工作室，由業餘系統管理業務人員和代碼修改者潘景泰先生創立</a>，以<a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">姓名標示-非商業性-禁止改作 4.0 國際<a>釋出。</a><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1"></a></p>
