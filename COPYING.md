@@ -2,6 +2,7 @@
 title: Creative Commons — Attribution-NonCommercial-NoDerivatives 4.0
   International — CC BY-NC-ND 4.0
 viewport: width=device-width, initial-scale=1
+language: en
 ---
 
 # Creative Commons Legal Code

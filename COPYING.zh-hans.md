@@ -1,6 +1,7 @@
 ---
 title: 知识共享(Creative Commons) 署名—非商业性使用—禁止演绎 4.0 协议国际版
 viewport: width=device-width, initial-scale=1
+language: zh-Hans
 ---
 
 # 知识共享协议法律文本
