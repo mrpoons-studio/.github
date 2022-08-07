@@ -70,24 +70,28 @@ k. <span id="s1k">**You** means the individual or entity exercising the Licensed
 **Section 2 – Scope.**
 
 a.  <span id="s2a">**License grant**.</span>
+
     1.  <span id="s2a1">Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:</span>
+
         A.  <span id="s2a1A">reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and</span>
         B.  <span id="s2a1B">produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.</span>
-    2.  <span id="s2a2"><span style="text-decoration: underline;">Exceptions and Limitations</span>. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.</span>
-    3.  <span id="s2a3"><span style="text-decoration: underline;">Term</span>. The term of this Public License is specified in Section [6(a)](#s6a).</span>
-    4.  <span id="s2a4"><span style="text-decoration: underline;">Media and formats; technical modifications allowed</span>. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section [2(a)(4)](#s2a4) never produces Adapted Material.</span>
-    5.  <span id="s2a5"><span style="text-decoration: underline;">Downstream recipients</span>.</span>
-        <div class="para">
 
+    2.  <span id="s2a2"><span style="text-decoration: underline;">Exceptions and Limitations</span>. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.</span>
+
+    3.  <span id="s2a3"><span style="text-decoration: underline;">Term</span>. The term of this Public License is specified in Section [6(a)](#s6a).</span>
+
+    4.  <span id="s2a4"><span style="text-decoration: underline;">Media and formats; technical modifications allowed</span>. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section [2(a)(4)](#s2a4) never produces Adapted Material.</span>
+
+    5.  <span id="s2a5"><span style="text-decoration: underline;">Downstream recipients</span>.</span>
+
+        <div class="para">
         A.  <span id="s2a5A"><span style="text-decoration: underline;">Offer from the Licensor – Licensed Material</span>. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.</span>
         B.  <span id="s2a5B"><span style="text-decoration: underline;">No downstream restrictions</span>. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.</span>
-
         </div>
+
     6.  <span id="s2a6"><span style="text-decoration: underline;">No endorsement</span>. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section [3(a)(1)(A)(i)](#s3a1Ai).</span>
 
-b.  <div id="s2b">
-
-    **Other rights**.
+b.  <div id="s2b">**Other rights**.
 
     1.  <span id="s2b1">Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.</span>
     2.  <span id="s2b2">Patent and trademark rights are not licensed under this Public License.</span>
@@ -100,9 +104,7 @@ b.  <div id="s2b">
 Your exercise of the Licensed Rights is expressly made subject to the
 following conditions.
 
-a.  <div id="s3a">
-
-    **Attribution**.
+a.  <div id="s3a">**Attribution**.
 
     1.  <div id="s3a1">
 
