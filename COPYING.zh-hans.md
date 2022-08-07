@@ -48,7 +48,7 @@ Commons)署名—非商业性使用—禁止演义4.0国际公共许可协议（
 
 1.  <span id="s1a">**演绎作品(Adapted Material)：** 指受到著作权与类似权利保护的，基于授权作品(Licensed Material)而创作的作品(material)，例如对授权作品(Licensed Material)的翻译、改编、编排、改写或其他依据著作权与类似权利需要获得所有人许可的修改。为本公共许可协议之目的，当授权作品(Licensed Material)为音乐作品、表演或录音时，将其依时间序列关系与动态影像配合一致而形成的作品，视为演绎作品(Adapted Material)。</span>
 2.  <span id="s1b">**著作权与类似权利：**
-指著作权和/或与著作权紧密联系的类似权利。类似权利包括但不限于：表演者权、广播组织权、录音录像制作者权、以及数据库特别权利，而不论上述权利的定义和归类如何。为本公共许可协议之目的，[第二条b款第(1)项与第(2)项](COPYING.zh-hans.md#s2b)所列权利不属于著作权与类似权利。</span>
+指著作权和/或与著作权紧密联系的类似权利。类似权利包括但不限于：表演者权、广播组织权、录音录像制作者权、以及数据库特别权利，而不论上述权利的定义和归类如何。为本公共许可协议之目的，[第二条b款第(1)项与第(2)项](#s2b)所列权利不属于著作权与类似权利。</span>
 3.  <span id="s1c">**有效的技术措施：**
 指根据各司法管辖区遵循《世界知识产权组织版权条约》（1996年12月20日通过）第十一条或类似国际协定项下的义务所制定的法律，在没有适当的授权的情况下，禁止使用者规避的技术措施。</span>
 4.  <span id="s1d">**例外与限制：** 指合理使用(Fair Dealing and Fair Use)和/或其他适用于您对授权作品(Licensed Material)的使用的著作权与类似权利的例外或限制。</span>
@@ -69,8 +69,8 @@ Material)的全部或部分，仅限于非商业性使用；以及</span>
 2.  <span id="s2a1B">为非商业目的创作、复制演绎作品(Adapted Material)，但不得分享该演绎作品。</span>
 2.  <span id="s2a2"><span style="text-decoration: underline;">例外和限制</span>
 为避免疑义，若著作权的例外和限制适用于您对授权作品(Licensed Material)的使用，本公共许可协议将不适用，您也无须遵守本公共许可协议之条款。</span>
-3.  <span id="s2a3"><span style="text-decoration: underline;">期限</span> 本公共许可协议的期限规定于[第六条a款](COPYING.zh-hans.md#s6a)。</span>
-4.  <span id="s2a4"><span style="text-decoration: underline;">媒介和形式；允许的技术修改</span> 许可人授权您在任何媒介以任何形式（不论目前已知的或未来出现的）行使本协议授予的权利，并为之进行必要的技术修改。许可人放弃和/或同意不主张任何权利以阻止您为了行使协议项下权利进行必要的技术修改，包括为规避有效技术措施所必须的技术修改。为了本公共许可协议之目的，基于本协议[第二条a款第(4)项](COPYING.zh-hans.md#s2a4)进行的技术修改不构成演绎作品(Adapted Material)。</span>
+3.  <span id="s2a3"><span style="text-decoration: underline;">期限</span> 本公共许可协议的期限规定于[第六条a款](#s6a)。</span>
+4.  <span id="s2a4"><span style="text-decoration: underline;">媒介和形式；允许的技术修改</span> 许可人授权您在任何媒介以任何形式（不论目前已知的或未来出现的）行使本协议授予的权利，并为之进行必要的技术修改。许可人放弃和/或同意不主张任何权利以阻止您为了行使协议项下权利进行必要的技术修改，包括为规避有效技术措施所必须的技术修改。为了本公共许可协议之目的，基于本协议[第二条a款第(4)项](#s2a4)进行的技术修改不构成演绎作品(Adapted Material)。</span>
 5.  <span id="s2a5"><span style="text-decoration: underline;">后续接受者</span>。</span>
 <div class="para">
 
@@ -78,7 +78,7 @@ Material)的全部或部分，仅限于非商业性使用；以及</span>
 2.  <span id="s2a5B"><span style="text-decoration: underline;">禁止下游限制</span> 若会限制授权作品(Licensed Material)后续接受者行使本协议所授予的权利，则您不得对授权作品(Licensed Material)提出或增加任何额外的或不同的条款，或使用任何有效技术措施。</span>
 
 </div>
-6.  <span id="s2a6"><span style="text-decoration: underline;">并非背书</span>本公共许可协议不构成、或不得被解释为允许您声明或主张：您或您对授权作品(Licensed Material)的使用与许可人（或[第三条a款第(1)项(A)目(i)](COPYING.zh-hans.md#s3a1Ai)所规定要求提供署名的权利人）相关联，或得到其赞助、同意或被授予正式地位。</span>
+6.  <span id="s2a6"><span style="text-decoration: underline;">并非背书</span>本公共许可协议不构成、或不得被解释为允许您声明或主张：您或您对授权作品(Licensed Material)的使用与许可人（或[第三条a款第(1)项(A)目(i)](#s3a1Ai)所规定要求提供署名的权利人）相关联，或得到其赞助、同意或被授予正式地位。</span>
 
 2.  <div id="s2b">
 
@@ -118,9 +118,9 @@ Material)的许可。
 
 </div>
 
-2.  <span id="s3a2">依据您分享本授权作品(Licensed Material)的媒介、方法及情況，您可以采用任何合理方式满足[第三条a款第(1)项](COPYING.zh-hans.md#s3a1)的条件。例如，提供包含所要求信息来源的网址(URI)或超链接可算是合理地满足此处的条件。</span>
+2.  <span id="s3a2">依据您分享本授权作品(Licensed Material)的媒介、方法及情況，您可以采用任何合理方式满足[第三条a款第(1)项](#s3a1)的条件。例如，提供包含所要求信息来源的网址(URI)或超链接可算是合理地满足此处的条件。</span>
 
-3.  <span id="s3a3">如果许可人要求，您必须在合理可行的范围内移除[第三条a款第(1)项(A)目](COPYING.zh-hans.md#s3a1A)所要求的任何信息。</span>
+3.  <span id="s3a3">如果许可人要求，您必须在合理可行的范围内移除[第三条a款第(1)项(A)目](#s3a1A)所要求的任何信息。</span>
 
 </div>
 
@@ -129,12 +129,12 @@ Material)的许可。
 当协议所授予的权利包含数据库特别权利，而该数据库特别权利适用于您对授权作品(Licensed
 Material)的使用时：
 
-1.  <span id="s4a">为避免疑义，[第二条a款第(1)项](COPYING.zh-hans.md#s2a1)授权您，摘录、再利用、复制和分享全部或绝大部分数据库资料，但仅限于非商业性目的且不得分享演绎作品；</span>
+1.  <span id="s4a">为避免疑义，[第二条a款第(1)项](#s2a1)授权您，摘录、再利用、复制和分享全部或绝大部分数据库资料，但仅限于非商业性目的且不得分享演绎作品；</span>
 2.  <span id="s4b">如果您将数据库资料的全部或绝大部分纳入您享有数据库特别权利的另一数据库，则您享有数据库特别权利的该数据库（而非其中的单个内容）视为演绎作品(Adapted
 Material)；</span>
-3.  <span id="s4c">如果您分享全部或大部分该数据库的资料，您必须遵守[第三条a款](COPYING.zh-hans.md#s3a)规定的条件。</span>
+3.  <span id="s4c">如果您分享全部或大部分该数据库的资料，您必须遵守[第三条a款](#s3a)规定的条件。</span>
 
-为避免疑义，当协议所授予的权利包含其他著作权与类似权利时，[第四条](COPYING.zh-hans.md#s4)补充且不取代本公共许可协议所规定的您的义务。
+为避免疑义，当协议所授予的权利包含其他著作权与类似权利时，[第四条](#s4)补充且不取代本公共许可协议所规定的您的义务。
 
 **第五条 免责声明及责任限制条款**
 
@@ -153,18 +153,18 @@ Material)的权属保证、可交易性、适于特定目的、未侵害他人�
 
 2.  <div id="s6b">
 
-当您使用本授权作品(Licensed Material)的权利根据[第六条a款](COPYING.zh-hans.md#s6a)终止时，您的权利在下述情况下恢复：
+当您使用本授权作品(Licensed Material)的权利根据[第六条a款](#s6a)终止时，您的权利在下述情况下恢复：
 
 1.  <span id="s6b1">自违反协议的行为纠正之日起自动恢复，但须在您发现违反情形后30日内纠正；或</span>
 2.  <span id="s6b2">根据许可人明示恢复权利的意思表达。</span>
 
-为避免疑义，本公共许可协议[第六条b款](COPYING.zh-hans.md#s6b)不影响许可人就您违反本公共许可协议的行为寻求法律救济。
+为避免疑义，本公共许可协议[第六条b款](#s6b)不影响许可人就您违反本公共许可协议的行为寻求法律救济。
 
 </div>
 
 3.  <span id="s6c">为避免疑义，许可人也可在任何时间，以另外的条款或条件提供本授权作品(Licensed Material)，或者停止传播本授权作品(Licensed Material)；然而，许可人此种行为不会终止本公共许可协议。</span>
 
-4.  <span id="s6d">本协议第[一](COPYING.zh-hans.md#s1)、[五](COPYING.zh-hans.md#s5)、[六](COPYING.zh-hans.md#s6)、[七](COPYING.zh-hans.md#s7)及[第八条](COPYING.zh-hans.md#s8)，不因本公共许可协议终止而失效。</span>
+4.  <span id="s6d">本协议第[一](#s1)、[五](#s5)、[六](#s6)、[七](#s7)及[第八条](#s8)，不因本公共许可协议终止而失效。</span>
 
 **第七条 其他条款和条件**
 
