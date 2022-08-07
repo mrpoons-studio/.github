@@ -104,8 +104,7 @@ id="s2b1">依据本公共许可协议，著作人身权，例如保护作品完�
 若您分享本授权作品(Licensed Material)，您必须：
 
 1.  <span id="s3a1A">保留如下标识（如果许可人提供授权作品(Licensed Material)的同时提供如下标识）：</span>
-1.  <span id="s3a1Ai">以许可人要求的任何合理方式，标识本授权作品(Licensed
-Material)创作者和其他被指定署名的人的身份（包括指定的笔名）；</span>
+1.  <span id="s3a1Ai">以许可人要求的任何合理方式，标识本授权作品(Licensed Material)创作者和其他被指定署名的人的身份（包括指定的笔名）；</span>
 2.  <span id="s3a1Aii">著作权声明；</span>
 3.  <span id="s3a1Aiii">有关本公共许可协议的声明；</span>
 4.  <span id="s3a1Aiv">有关免责的声明；</span>
