@@ -1,6 +1,5 @@
 ---
-title: Creative Commons — 姓名標示─非商業性─禁止改作 4.0 國際 — CC
-BY-NC-ND 4.0
+title: Creative Commons — 姓名標示─非商業性─禁止改作 4.0 國際 — CC BY-NC-ND 4.0
 viewport: width=device-width, initial-scale=1
 ---
 
