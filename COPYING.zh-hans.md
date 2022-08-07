@@ -34,9 +34,9 @@ viewport: width=device-width, initial-scale=1
 
 知识共享公共许可协议(CCPL)提供一套标准化的条款供作者或其他权利人使用，以便他们分享其原创作品(original works of authorship)和其他受著作权和以下公共许可协议中提及的其他特定权利保护的作品(material)。以下考虑因素仅供参考，并未列举穷尽，也不属于本公共许可协议文本的一部分。
 
-**许可人应当考虑的因素：**知识共享(Creative Commons)公共许可协议是供那些有权许可公众以著作权或其他特定权利所保护的方式使用其作品(material)的权利人使用的。知识共享(Creative Commons)协议不可撤销。因此，在采用协议前，许可人应当阅读并理解其所选择的协议条款。许可人亦应确保其享有所授予公众的权利，以便公众能够顺利的使用授权作品(material)。许可人应当清楚地注明协议所不适用的作品(material)，包括其他采用知识共享协议授权的作品(material)，或基于著作权的例外或限制而使用的作品(material)。[许可人应该考虑的其他因素](https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors)<a href="COPYING.zh-hans.md#" class="cc-collapsible__trigger"><span><img src="vertopal/f94ac4a4548cfb8d4d784501cd4b155c1be1f69c.svg" /></span></a>
+**许可人应当考虑的因素：**知识共享(Creative Commons)公共许可协议是供那些有权许可公众以著作权或其他特定权利所保护的方式使用其作品(material)的权利人使用的。知识共享(Creative Commons)协议不可撤销。因此，在采用协议前，许可人应当阅读并理解其所选择的协议条款。许可人亦应确保其享有所授予公众的权利，以便公众能够顺利的使用授权作品(material)。许可人应当清楚地注明协议所不适用的作品(material)，包括其他采用知识共享协议授权的作品(material)，或基于著作权的例外或限制而使用的作品(material)。[许可人应该考虑的其他因素](https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors)
 
-**公众应当考虑的因素：** 许可人通过使用知识共享(Creative Commons)协议，授权公众依据特定的条款和条件使用授权作品(Licensed Material)。如果因为任何原因不需要授权即可使用该作品(material)——例如基于著作权的例外或限制——那么该使用并不受本协议约束。许可人通过知识共享(Creative Commons)协议只能授予基于著作权或其他特定权利有权授予的许可。使用授权作品(Licensed Material)可能还受到其他情形的限制，包括第三方对该作品(material)所享有的著作权或其他权利。许可人可能做出其他特别要求，比如要求使用者标注或说明对作品(material)的所有更改。即使本协议没有要求，知识共享(Creative Commons)仍然鼓励您遵守许可人的合理要求。[公众应当考虑的其他因素](https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees)<a href="COPYING.zh-hans.md#" class="cc-collapsible__trigger"><span><img src="vertopal/f94ac4a4548cfb8d4d784501cd4b155c1be1f69c.svg" /></span></a>
+**公众应当考虑的因素：** 许可人通过使用知识共享(Creative Commons)协议，授权公众依据特定的条款和条件使用授权作品(Licensed Material)。如果因为任何原因不需要授权即可使用该作品(material)——例如基于著作权的例外或限制——那么该使用并不受本协议约束。许可人通过知识共享(Creative Commons)协议只能授予基于著作权或其他特定权利有权授予的许可。使用授权作品(Licensed Material)可能还受到其他情形的限制，包括第三方对该作品(material)所享有的著作权或其他权利。许可人可能做出其他特别要求，比如要求使用者标注或说明对作品(material)的所有更改。即使本协议没有要求，知识共享(Creative Commons)仍然鼓励您遵守许可人的合理要求。[公众应当考虑的其他因素](https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees)
 
 </div>
 

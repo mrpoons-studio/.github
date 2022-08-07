@@ -32,9 +32,9 @@ viewport: width=device-width, initial-scale=1
 
 CC公眾授權條款提供一套標準的條款及條件，供創作者以及其他權利人使用，以便他們分享原始創作及其他受著作權法及在以下公眾授權條款中指明的其他權利所保護的素材。下列約因僅供資訊參考之目的，非完整、亦不構成我們授權條款的一部份。
 
-**授權人之考量：**我們的公眾授權條款在供那些有權給予公眾許可的人使用，讓公眾得以著作權及某些其他權利所限制的方式來使用素材。我們的授權條款是不可撤回的。在適用授權條款前，授權人應閱讀及瞭解其選擇的授權條款之條款及條件。授權人亦應確保其擁有欲授與公眾的所有權利，以使公眾能依其所期再利用該等素材。授權人應清楚地標記不受本授權條款拘束的素材。這包含其他採用CC授權的素材，或依據著作權保護的限制或例外來使用的素材。[更多授權人之考量](https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors)。<a href="COPYING.zh-hant.md#" class="cc-collapsible__trigger"><span><img src="vertopal/f94ac4a4548cfb8d4d784501cd4b155c1be1f69c.svg" /></span></a>
+**授權人之考量：**我們的公眾授權條款在供那些有權給予公眾許可的人使用，讓公眾得以著作權及某些其他權利所限制的方式來使用素材。我們的授權條款是不可撤回的。在適用授權條款前，授權人應閱讀及瞭解其選擇的授權條款之條款及條件。授權人亦應確保其擁有欲授與公眾的所有權利，以使公眾能依其所期再利用該等素材。授權人應清楚地標記不受本授權條款拘束的素材。這包含其他採用CC授權的素材，或依據著作權保護的限制或例外來使用的素材。[更多授權人之考量](https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors)。
 
-**公眾之考量：**透過使用我們公眾授權條款的其中一種，授權人授與公眾許可得依據載明之條款及條件來使用授權素材。若授權人的許可因為任何理由而非必須，例如，因為任何對著作權保護的例外或限制，則該等使用不受本授權條款的規範。我們的授權條款只授與依據著作權及某些其他權利，授權人有權為此授權的許可。使用授權素材可能仍會因其他原因而受限制，包含因為其他人對此素材有著作權或其他權利。授權人得提出特別要求，如要求需標記或描述所有修改過的部分。雖然我們的授權條款沒有這樣要求，仍鼓勵您尊重那些要求中合理者。[更多公眾之考量](https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees)。<a href="COPYING.zh-hant.md#" class="cc-collapsible__trigger"><span><img src="vertopal/f94ac4a4548cfb8d4d784501cd4b155c1be1f69c.svg" /></span></a>
+**公眾之考量：**透過使用我們公眾授權條款的其中一種，授權人授與公眾許可得依據載明之條款及條件來使用授權素材。若授權人的許可因為任何理由而非必須，例如，因為任何對著作權保護的例外或限制，則該等使用不受本授權條款的規範。我們的授權條款只授與依據著作權及某些其他權利，授權人有權為此授權的許可。使用授權素材可能仍會因其他原因而受限制，包含因為其他人對此素材有著作權或其他權利。授權人得提出特別要求，如要求需標記或描述所有修改過的部分。雖然我們的授權條款沒有這樣要求，仍鼓勵您尊重那些要求中合理者。[更多公眾之考量](https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees)。
 
 </div>
 
