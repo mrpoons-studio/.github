@@ -1,6 +1,6 @@
 ---
 title: 知识共享(Creative Commons) 署名—非商业性使用—禁止演绎 4.0 协议国际版
-viewport: width=device-width, initial-scale=1
+viewport: width=device-width, height=device-height, initial-scale=1
 language: zh-Hans
 ---
 
