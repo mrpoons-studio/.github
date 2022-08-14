@@ -126,10 +126,11 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
     <p><span id=s2a6>6.  __No endorsement__. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section [3(a)(1)(A)(i)](#s3a1Ai).</span>
 
 <span id=s2b>b.  **Other rights**.</span>
-    
+
     <span id=s2b1>1.  Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.</span>
-    <br><span id=s2b2>2.  Patent and trademark rights are not licensed under this Public License.</span>
-    <br><span id=s2b3>3.  To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.</span></br>
+
+    <span id=s2b2>2.  Patent and trademark rights are not licensed under this Public License.</span>
+    <span id=s2b3>3.  To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.</span>
 
 <span id=s3>**Section 3 – License Conditions.**</span>
 
