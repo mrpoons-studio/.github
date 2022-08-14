@@ -102,43 +102,42 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
 <span id=s2>**Section 2 – Scope.**</span>
 
-<div id=paragraph>
+
 
 <span id=s2a>a.  **License grant**.</span>
     
-    <span id=s2a1>1.  Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:</span>
+    <p><span id=s2a1>1.  Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:</span>
         
-        <span id=s2a1A>A.  reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and</span>
+        <p><span id=s2a1A>A.  reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and</span>
         
-        <span id=s2a1B>B.  produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.</span>
+        <p><span id=s2a1B>B.  produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.</span>
     
-    <span id=s2a2>2.  __Exceptions and Limitations__. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.</span></div>
+    <p><span id=s2a2>2.  __Exceptions and Limitations__. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.</span></div>
     
-    <span id=s2a3>3.  __Term__. The term of this Public License is specified in Section [6(a)](#s6a).</span>
+    <p><span id=s2a3>3.  __Term__. The term of this Public License is specified in Section [6(a)](#s6a).</span>
     
-    <span id=s2a4>4.  __Media and formats; technical modifications allowed__. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section [2(a)(4)](#s2a4) never produces Adapted Material.</span>
+    <p><span id=s2a4>4.  __Media and formats; technical modifications allowed__. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section [2(a)(4)](#s2a4) never produces Adapted Material.</span>
     
-    <span id=s2a5>5.  __Downstream recipients__.</span>
-        <span id=s2a5A>A.  __Offer from the Licensor – Licensed Material__. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.</span>
+    <p><span id=s2a5>5.  __Downstream recipients__.</span>
+        <p><span id=s2a5A>A.  __Offer from the Licensor – Licensed Material__. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.</span>
         
-        <span id=s2a5B>B.  __No downstream restrictions__. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.</span>
+        <p><span id=s2a5B>B.  __No downstream restrictions__. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.</span>
     
-    <span id=s2a6>6.  __No endorsement__. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section [3(a)(1)(A)(i)](#s3a1Ai).</span>
+    <p><span id=s2a6>6.  __No endorsement__. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section [3(a)(1)(A)(i)](#s3a1Ai).</span>
 
 <span id=s2b>b.  **Other rights**.</span>
-    <div id=paragraph>
-    <span id=s2b1>1.  Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.</span>
-    <span id=s2b2>2.  Patent and trademark rights are not licensed under this Public License.</span>
-    <span id=s2b3>3.  To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.</span>
     
-</div>
+    <span id=s2b1>1.  Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.</span>
+    
+    <p><span id=s2b2>2.  Patent and trademark rights are not licensed under this Public License.</span>
+    
+    <p><span id=s2b3>3.  To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.</span>
 
 <span id=s3>**Section 3 – License Conditions.**</span>
 
 Your exercise of the Licensed Rights is expressly made subject to the
 following conditions.
 
-<div id=paragraph>
 <span id=s3a>a.  **Attribution**.</span>
   
     <span id=s3a1>1.  If You Share the Licensed Material, You must:</span>
@@ -165,8 +164,6 @@ following conditions.
     
     <span id=s3a3>3.  If requested by the Licensor, You must remove any of the information required by Section [3(a)(1)(A)](#s3a1A) to the extent reasonably practicable.</span>
 
-</div>
-
 <span id=s4>**Section 4 – Sui Generis Database Rights.**</span>
 
 Where the Licensed Rights include Sui Generis Database Rights that apply
@@ -190,12 +187,11 @@ For the avoidance of doubt, this Section [4](#s4) supplements and does not repla
 
 <span id=s6>**Section 6 – Term and Termination.**</span>
 
-<div id=paragraph>
 <span id=s6a>a.  This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.</span>
 
 <span id=s6b>b.  Where Your right to use the Licensed Material has terminated under Section [6(a)](#s6a), it reinstates:</span>
     
-    <div id=paragraph>
+    
     <span id=s6b1>1.  automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or</span>
     
     <span id=s6b2>2.  upon express reinstatement by the Licensor.</span>
@@ -205,8 +201,6 @@ For the avoidance of doubt, this Section [4](#s4) supplements and does not repla
 <span id=s6c>c.  For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.</span>
 
 <span id=s6d>d.  Sections [1](#s1), [5](#s5), [6](#s6), [7](#s7), and [8](#s8) survive termination of this Public License.</span>
-
-</div>
 
 <span id=s7>**Section 7 – Other Terms and Conditions.**</span>
 
