@@ -129,9 +129,9 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
     
     <span id=s2b1>1.  Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.</span>
     
-    <p><span id=s2b2>2.  Patent and trademark rights are not licensed under this Public License.</span>
+    <p><span id=s2b2>2.  Patent and trademark rights are not licensed under this Public License.</span></p>
     
-    <p><span id=s2b3>3.  To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.</span>
+    <p><span id=s2b3>3.  To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.</span></p>
 
 <span id=s3>**Section 3 – License Conditions.**</span>
 
@@ -139,7 +139,7 @@ Your exercise of the Licensed Rights is expressly made subject to the
 following conditions.
 
 <span id=s3a>a.  **Attribution**.</span>
-  
+    
     <span id=s3a1>1.  If You Share the Licensed Material, You must:</span>
     
         <span id=s3a1A>A.  retain the following if it is supplied by the Licensor with the Licensed Material:</span>
