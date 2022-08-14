@@ -1,3 +1,11 @@
+---
+title: Introducing Mr. Poon's Studio, the poorest coding community for familes who is suffering poverty
+viewport: width=device-width, height=device-height, initial-scale=1
+language: English
+author: Mr. Poon's Studio by Mr. Alice King Tai Poon
+---
+
+
 # 👋Hello World, this is Mr. Poon's Studio
 
 ## Introduction to this poor coding community for all
