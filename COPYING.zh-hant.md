@@ -3,19 +3,19 @@ title: Creative Commons — 姓名標示─非商業性─禁止改作 4.0 國�
 viewport: width=device-width, height=device-height, initial-scale=1
 language: 繁體中文
 original-author: 創用CC組織
-edited-by: 泰哥工作室 - 潘景泰先生
+edited-by: "泰哥工作室 - 潘景泰先生"
+---
 
 # 創用 CC 法律條款
-
 <div id="deed-license">
-    
-    ## 姓名標示─非商業性─禁止改作 4.0 國際
+
+## 姓名標示─非商業性─禁止改作 4.0 國際
 
 </div>
 
 <div id="deed-main">
-    
-    <div id="deed-main-content">
+
+<div id="deed-main-content">
     
     <div class="shaded">
     

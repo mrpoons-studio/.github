@@ -8,16 +8,15 @@ edited-by: Mr. Alice King Tai Poon from Mr. Poon's Studio
 ---
 
 # Creative Commons Legal Code
-
 <div id="deed-license">
     
-    ## Attribution-NonCommercial-NoDerivatives 4.0 International
+## Attribution-NonCommercial-NoDerivatives 4.0 International
 
 </div>
 
 <div id="deed-main">
     
-    <div id="deed-main-content">
+<div id="deed-main-content">
     
         <div class="shaded">
     
