@@ -1,6 +1,6 @@
-# 👋Hello World, this is Mr. Poon's Studio!
+# 👋Hello World, this is Mr. Poon's Studio
 
-## Introduction to this poor coding community for all.
+## Introduction to this poor coding community for all
 
 I am living in Tin Shui Wai, Yuen Long District, New Territories, HKSARG, China for a decade. When I heard lots of unhappy news from familes who are solving poverty from Internet coding equipments, especially SME-sized business NAS server for familes and 1 manpowered coder families who do not wants to married with others and express speed Internet subscriptions from Internet providers with today's Web 3.0 coding enviroment. They could not afford these of expensive cost with today's stagflation economy enviroment.
 However, GitHub subscription is easy and efficient with Web 3.0 coding for today. It seems GitHub's subscriptions calculated in USD, not in cheap currency format like Argentina Pesos or South Korean Won.
