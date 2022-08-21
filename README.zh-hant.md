@@ -15,10 +15,10 @@ author: 泰哥工作室 - 潘景泰先生
 泰哥工作室由潘景泰先生全力策劃 以父母的愛製作一件又一件美好編碼成品 © 2022  
 * 商業合作：
   - [點擊來填寫email，聯絡景泰哥哥啦！](mailto:pkt_1@yahoo.com.hk)
-  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> 點擊來WhatsApp景泰哥哥啦！](whatsapp://send?phone=85298317529&text=您好，很高興認識您，請問有甚麼可以協助您呢？)
-  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> 點擊來WhatsApp景泰哥哥啦！](whatsapp://send?phone=85291470736&text=您好，很高興認識您，請問有甚麼可以協助您呢？)
-  - [打個電話來搵我傾傾](tel://+85298317529)
-  - [打個電話來搵我傾傾](tel://+85291470736)
+  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> 點擊來WhatsApp景泰哥哥啦！](whatsapp:send?phone=85298317529&text=您好，很高興認識您，請問有甚麼可以協助您呢？)
+  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> 點擊來WhatsApp景泰哥哥啦！](whatsapp:send?phone=85291470736&text=您好，很高興認識您，請問有甚麼可以協助您呢？)
+  - [打個電話來搵我傾傾](tel:+85298317529)
+  - [打個電話來搵我傾傾](tel:+85291470736)
 
 請留意：景泰哥哥通常打擊不合理廣告和各類詐騙程序（特別是廣告和詐騙相關來電），還有每工作日早上8:29至下午4:29有新生會新生農場崗位，因此回覆較慢，請多多體諒。感謝父親母親透過大家耐性，耐心忍耐等我答覆各位的問題。
 

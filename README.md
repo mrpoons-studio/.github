@@ -16,10 +16,10 @@ Mr. Poon's Studio by Alice King Tai Poon, with deep love coding production from 
 
 * Job Enquiry: 
   - [Find us with email](mailto:pkt_1@yahoo.com.hk "Send me an email")
-  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> WhatsApp my bro](whatsapp://send?phone=85298317529&amp;text=Hi+there!+Glad+to+meet+you.+Whassup+today? "WhatsApp my bro")
-  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> WhatsApp my bro](whatsapp://send?phone=85291470736&amp;text=Hi+there!+Glad+to+meet+you.+Whassup+today? "WhatsApp my bro")
-  - [Call me!](tel://+85298317529 "Call Mr. Poon's Studio")
-  - [Call me!](tel://+85291470736 "Call Mr. Poon's Studio")
+  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> WhatsApp my bro](whatsapp:send?phone=85298317529&amp;text=Hi+there!+Glad+to+meet+you.+Whassup+today? "WhatsApp my bro")
+  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> WhatsApp my bro](whatsapp:send?phone=85291470736&amp;text=Hi+there!+Glad+to+meet+you.+Whassup+today? "WhatsApp my bro")
+  - [Call me!](tel:+85298317529 "Call Mr. Poon's Studio")
+  - [Call me!](tel:+85291470736 "Call Mr. Poon's Studio")
 
 Note: May respond slowly as I am creating undesirable ads, calls with ads and fakes enviroment free specially. Plus having my post from NLF, NLPRA on weekdays, from 8:29am to 4:29pm.
 

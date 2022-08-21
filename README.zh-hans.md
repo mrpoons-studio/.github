@@ -15,10 +15,10 @@ author: 泰哥工作室 - 潘景泰先生
 泰哥工作室由潘景泰先生全力策划 以父母的爱成就一件又一件美好的扣钉成品 © 2022
 * 商业合作：
   - [马上填写email联系景泰哥哥吧！](mailto:pkt_1@yahoo.com.hk "以 email 联系景泰哥哥")
-  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> 马上动动您的小手指，WhatsApp景泰哥哥啦！](whatsapp://send?phone=85298317529&amp;text=您好，真的高兴认识您了！请问有什么需要可以帮助了您呢？ "以 WhatsApp 联系景泰哥哥")
-  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> 马上动动您的小手指，WhatsApp景泰哥哥啦！](whatsapp://send?phone=85291470736&amp;text=您好，真的高兴认识您了！请问有什么需要可以帮助了您呢？ "以 WhatsApp 联系景泰哥哥")
-  - [打电话给景泰哥哥啦！](tel://+85298317529 "打电话给景泰哥哥")
-  - [打电话给景泰哥哥啦！](tel://+85291470736 "打电话给景泰哥哥")
+  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> 马上动动您的小手指，WhatsApp景泰哥哥啦！](whatsapp:send?phone=85298317529&amp;text=您好，真的高兴认识您了！请问有什么需要可以帮助了您呢？ "以 WhatsApp 联系景泰哥哥")
+  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> 马上动动您的小手指，WhatsApp景泰哥哥啦！](whatsapp:send?phone=85291470736&amp;text=您好，真的高兴认识您了！请问有什么需要可以帮助了您呢？ "以 WhatsApp 联系景泰哥哥")
+  - [打电话给景泰哥哥啦！](tel:+85298317529 "打电话给景泰哥哥")
+  - [打电话给景泰哥哥啦！](tel:+85291470736 "打电话给景泰哥哥")
 
 注意啦：景泰哥哥通常会打击不合理广告和各类诈骗程序（特別是广告和诈骗相关来电），加上景泰哥哥本身有新生会新生农场岗位，每工作日早上8:29到下午4:29。因此我会较迟回复，多多体谅就给景泰哥哥快点完成修改大作，给别人造福同时也造福自己。谢谢父亲母亲透过大家的耐心，等景泰哥哥答复大家的问题。
 
