@@ -15,8 +15,8 @@ author: 泰哥工作室 - 潘景泰先生
 泰哥工作室由潘景泰先生全力策划 以父母的爱成就一件又一件美好的扣钉成品 © 2022
 * 商业合作：
   - [马上填写email联系景泰哥哥吧！](mailto:pkt_1@yahoo.com.hk "以 email 联系景泰哥哥")
-  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src=/bin/pictures/social.media.WhatsApp_Logo.png>马上动动您的小手指，WhatsApp景泰哥哥啦！](whatsapp://send?phone=85298317529&text=您好，真的高兴认识您了！请问有什么需要可以帮助了您呢？ "以 WhatsApp 联系景泰哥哥")
-  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src=/bin/pictures/social.media.WhatsApp_Logo.png>马上动动您的小手指，WhatsApp景泰哥哥啦！](whatsapp://send?phone=85291470736&text=您好，真的高兴认识您了！请问有什么需要可以帮助了您呢？ "以 WhatsApp 联系景泰哥哥")
+  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> 马上动动您的小手指，WhatsApp景泰哥哥啦！](whatsapp://send?phone=85298317529&text=您好，真的高兴认识您了！请问有什么需要可以帮助了您呢？ "以 WhatsApp 联系景泰哥哥")
+  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> 马上动动您的小手指，WhatsApp景泰哥哥啦！](whatsapp://send?phone=85291470736&text=您好，真的高兴认识您了！请问有什么需要可以帮助了您呢？ "以 WhatsApp 联系景泰哥哥")
   - [打电话给景泰哥哥啦！](tel://+85298317529 "打电话给景泰哥哥")
   - [打电话给景泰哥哥啦！](tel://+85291470736 "打电话给景泰哥哥")
 

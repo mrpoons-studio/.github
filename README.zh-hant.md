@@ -15,8 +15,8 @@ author: 泰哥工作室 - 潘景泰先生
 泰哥工作室由潘景泰先生全力策劃 以父母的愛製作一件又一件美好編碼成品 © 2022  
 * 商業合作：
   - [點擊來填寫email，聯絡景泰哥哥啦！](mailto:pkt_1@yahoo.com.hk)
-  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src=/bin/pictures/social.media.WhatsApp_Logo.png>點擊來WhatsApp景泰哥哥啦！](whatsapp://send?phone=85298317529&text=您好，很高興認識您，請問有甚麼可以協助您呢？)
-  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src=/bin/pictures/social.media.WhatsApp_Logo.png>點擊來WhatsApp景泰哥哥啦！](whatsapp://send?phone=85291470736&text=您好，很高興認識您，請問有甚麼可以協助您呢？)
+  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> 點擊來WhatsApp景泰哥哥啦！](whatsapp://send?phone=85298317529&text=您好，很高興認識您，請問有甚麼可以協助您呢？)
+  - [<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="/bin/pictures/social.media.WhatsApp_Logo.png" alt="social"> 點擊來WhatsApp景泰哥哥啦！](whatsapp://send?phone=85291470736&text=您好，很高興認識您，請問有甚麼可以協助您呢？)
   - [打個電話來搵我傾傾](tel://+85298317529)
   - [打個電話來搵我傾傾](tel://+85291470736)
 
