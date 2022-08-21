@@ -24,5 +24,5 @@ Mr. Poon's Studio by Alice King Tai Poon, with deep love coding production from 
 Note: May respond slowly as I am creating undesirable ads, calls with ads and fakes enviroment free specially. Plus having my post from NLF, NLPRA on weekdays, from 8:29am to 4:29pm.
 
 Languages：  
-[Chinese Traditional (繁體中文)](/profile/README.zh-hant.md "#readme.zh-hant")   
-[Chinese Simplified (简体中文)](/profile/README.zh-hans.md "#readme.zh-hans")
+[Chinese Traditional (繁體中文)](README.zh-hant.md "#readme.zh-hant")   
+[Chinese Simplified (简体中文)](README.zh-hans.md "#readme.zh-hans")
