@@ -1,9 +1,9 @@
 ---
-title: Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International - CC BY-NC-ND 4.0
+Title: Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International - CC BY-NC-ND 4.0
 viewport: width=device-width, height=device-height, initial-scale=1
-language: English
-original-author: Creative Commons Corporation
-edited-by: Mr. Alice King Tai Poon from Mr. Poon's Studio
+Language: English
+Original Author: Creative Commons Corporation
+Edited By: Mr. Alice King Tai Poon from Mr. Poon's Studio
 ---
 <a id=top />
 
