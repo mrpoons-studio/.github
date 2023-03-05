@@ -148,13 +148,13 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 
 <details>
     <summary>A. retain the following if it is supplied by the Licensor with the Licensed Material:</summary>
-  
     i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
     ii. a copyright notice;
     iii. a notice that refers to this Public License;
     iv. a notice that refers to the disclaimer of warranties;
     v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
 </details>
+
     B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and  
     C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
 
