@@ -97,8 +97,8 @@ Your rights other than copyright resulting from Directive 96/9/EC of the Europea
 
 #### k. **Clarifying "You" and "Your"**
 
-**"You"** means the individual or entity exercising the Licensed Rights under this Public License.
-**"Your"** has a corresponding meaning.
+<div id=you>**"You"** means the individual or entity exercising the Licensed Rights under this Public License.</div>
+<div id=your>**"Your"** has a corresponding meaning.</div>
 
 ### Section 2 - Scope.
 
