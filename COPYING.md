@@ -76,17 +76,14 @@ Your rights other than copyright resulting from Directive 96/9/EC of the Europea
 #### k. **Clarifying "You" and "Your"**
 **"You"** means the individual or entity exercising the Licensed Rights under this Public License.
 **"Your"** has a corresponding meaning.
-<!-- s2 -->
 
 ### Section 2 - Scope.
-
-
-#### a. **_License grant_**.</summary>
-<detail>
- <summary>1.  Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:</summary>
+#### a. **_License grant_**.
+  <detail>
+  <summary>1.  Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:</summary>
     A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and  
     B. produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.
-</detail>
+  </detail>
   2.  **Exceptions and Limitations**. 
   For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
   3.  **Term**. 
@@ -101,19 +98,13 @@ Your rights other than copyright resulting from Directive 96/9/EC of the Europea
   6.  **No endorsement.** 
   Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
-
-
 #### b. **_Other rights_**.
   1.  Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
   2.  Patent and trademark rights are not licensed under this Public License.
   3.  To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
 
-
-<!-- s3 -->
 #### Section 3 - License Conditions.
-
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
-
 #### a. **_Attribution_**
 <detail>
   <summary>1.  If You Share the Licensed Material, You must:</summary>
@@ -128,11 +119,9 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
 </detail>
 For the avoidance of doubt, You do not have permission under this Public License to Share Adapted Material.
 
-  2.  You may satisfy the conditions in Section [3(a)(1)](s3a1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+  2.  You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
   3.  If requested by the Licensor, You must remove any of the information required by Section [3(a)(1)(A)](s3a1A) to the extent reasonably practicable.
 
-<details>
-<!-- s4 -->
 ### Section 4 - Sui Generis Database Rights.
 <detail>
 <summary>Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:</summary>
@@ -142,17 +131,12 @@ c. You must comply with the conditions in Section 3(a) if You Share all or a sub
 For the avoidance of doubt, this Section [4](s4) supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 </detail>
 
-
-<!-- s5 -->
 ### Section 5 - Disclaimer of Warranties and Limitation of Liability.
 
 a. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**  
 b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**  
 c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
 
-
-
-<!-- s6 -->
 ### Section 6 - Term and Termination.
 
 a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
@@ -165,15 +149,13 @@ a. This Public License applies for the term of the Copyright and Similar Rights 
 For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
 
 c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
-d. Sections [1](s1), [5](s5), [6](s6), [7](s7), and [8](s8) survive termination of this Public License.
+d. Sections [1](#section-1---definitions), [5](#section-5---disclaimer-of-warranties-and-limitation-of-liability), [6](#section-6---term-and-termination), [7](#section-7---other-terms-and-conditions), and [8](#section-8---interpretation) survive termination of this Public License.
 
-<!-- s7 -->
-  ### Section 7 - Other Terms and Conditions.
+### Section 7 - Other Terms and Conditions.
 
 a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
 b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
 
-<!-- s8 -->
 ### Section 8 - Interpretation.
 
 a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.  
