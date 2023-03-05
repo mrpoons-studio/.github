@@ -29,32 +29,32 @@ Edited By: Mr. Alice King Tai Poon from Mr. Poon's Studio
 ### **Contents - Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License**
 
 - [Section 1 - Definitions.](#section-1---definitions "Section 1 - Definitions")
-  - [Adapted Material](#adapted-material "Adapted Material")
-  - [Copyright and Similar Rights](#Copyright-and-Similar-Rights "Copyright and Similar Rights")
-  - [Effective Technological Measures](#Effective-Technological-Measures "Effective Technological Measures")
-  - [Exceptions and Limitations](#Exceptions-and-Limitations "Exceptions and Limitations")
-  - [Licensed Material](#Licensed-Material "Licensed Material")
-  - [Licensed Rights](#Licesend-Rights "Licensed Rights")
-  - [Licensor](#Licensor "Licensor")
-  - [NonCommercial](#NonCommercial "NonCommercial")
-  - [Share](#Share "Share")
-  - [Sui Generis Database Rights](#Sui-Generis-Database-Rights "Sui Genersis Database Rights")
-  - [Clarifying You and Your](#You "Clarifying You and Your")
-- [Section 2 – Scope](#Section-2-Scope "Section 2 - Scope")
-  - [License grant](#License-grant "License grant")
-  - [Other rights](#Other-rights "Other rights")
-- [Section 3 – License Conditions](#Section-3-License-Conditions "Section 3 - License Conditions")
-  - [Attribution](#Attribution "Attribution")
-- [Section 4 – Sui Generis Database Rights](#Section-4–Sui-Generis-Database-Rights "Sui Genersis Database Rights")
-- [Section 5 – Disclaimer of Warranties and Limitation of Liability](#Section-5-Disclaimer-of-Warranties-and-Limitation-of-Liability "Section 5 - Disclaimer of Warranties and Limitation of Liability")
-- [Section 6 – Term and Termination](#Section-6-Term-and-Termination "Section 6 - Term and Termination")
-- [Section 7 – Other Terms and Conditions](#Section-7-Other-Terms-and-Conditions "Section 7 - Other Terms and Conditions")
-- [Section 8 – Interpretation](#Section-8-Interpretation "Section 8 - Interpretation")
+  - [Adapted Material](#a-adapted-material "Adapted Material")
+  - [Copyright and Similar Rights](#b-cpyright-and-similar-rights "Copyright and Similar Rights")
+  - [Effective Technological Measures](#c-effective-technological-measures "Effective Technological Measures")
+  - [Exceptions and Limitations](#d-exceptions-and-limitations "Exceptions and Limitations")
+  - [Licensed Material](#e-licensed-material "Licensed Material")
+  - [Licensed Rights](#f-licesend-rights "Licensed Rights")
+  - [Licensor](#g-licensor "Licensor")
+  - [NonCommercial](#h-noncommercial "NonCommercial")
+  - [Share](#i-share "Share")
+  - [Sui Generis Database Rights](#j-sui-generis-database-rights "Sui Genersis Database Rights")
+  - [Clarifying You and Your](#k-clarifying-you-and-your "Clarifying You and Your")
+- [Section 2 – Scope](#section-2---scope "Section 2 - Scope")
+  - [License grant](#a-license-grant "License grant")
+  - [Other rights](#b-other-rights "Other rights")
+- [Section 3 – License Conditions](#section-3---license-conditions "Section 3 - License Conditions")
+  - [Attribution](#a-attribution "Attribution")
+- [Section 4 – Sui Generis Database Rights](#section-4---sui-generis-database-rights "Sui Genersis Database Rights")
+- [Section 5 – Disclaimer of Warranties and Limitation of Liability](#section-5---disclaimer-of-warranties-and-limitation-of-liability "Section 5 - Disclaimer of Warranties and Limitation of Liability")
+- [Section 6 – Term and Termination](#section-6---term-and-termination "Section 6 - Term and Termination")
+- [Section 7 – Other Terms and Conditions](#section-7---other-terms-and-conditions "Section 7 - Other Terms and Conditions")
+- [Section 8 – Interpretation](#section-8---interpretation "Section 8 - Interpretation")
 
 <!-- #s1 -->
 ###  Section 1 - Definitions.
 
-###### a. **Adapted Material** 
+a. **Adapted Material** 
 means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.  
 b. **Copyright and Similar Rights** 
 means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section [2(b)(1)-(2)](#s2b) are not Copyright and Similar Rights. ]
