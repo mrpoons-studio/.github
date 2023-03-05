@@ -81,8 +81,8 @@ Your rights other than copyright resulting from Directive 96/9/EC of the Europea
 #### a. **_License grant._**
   <details>
   <summary>1.  Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:</summary>
-    A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and  
-    B. produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.
+    - A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and  
+    - B. produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.
   </details>
   2.  **Exceptions and Limitations.**
   For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
