@@ -2,7 +2,7 @@
 标题: 知识共享(Creative Commons) 署名—非商业性使用—禁止演绎 4.0 协议国际版
 viewport: width=device-width, height=device-height, initial-scale=1
 语言: 简体中文
-作者: 创用CC组织
+作者: 创用CC组织 （ aka. 知识共享组织 ）
 编辑人: 泰哥工作室 - 潘景泰先生
 ---
 <a id=top />
