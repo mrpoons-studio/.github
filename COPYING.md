@@ -27,63 +27,63 @@ Edited By: Mr. Alice King Tai Poon from Mr. Poon's Studio
 <details>
 <summary>Contents - Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License</summary>
 
-- [Section 1 - Definitions.](section-1---definitions "Section 1 - Definitions")
-  - [Adapted Material](a-adapted-material "Adapted Material")
-  - [Copyright and Similar Rights](b-copyright-and-similar-rights "Copyright and Similar Rights")
-  - [Effective Technological Measures](c-effective-technological-measures "Effective Technological Measures")
-  - [Exceptions and Limitations](d-exceptions-and-limitations "Exceptions and Limitations")
-  - [Licensed Material](e-licensed-material "Licensed Material")
-  - [Licensed Rights](f-licensed-rights "Licensed Rights")
-  - [Licensor](g-licensor "Licensor")
-  - [NonCommercial](h-noncommercial "NonCommercial")
-  - [Share](i-share "Share")
-  - [Sui Generis Database Rights](j-sui-generis-database-rights "Sui Genersis Database Rights")
-  - [Clarifying "You" and "Your"](k-clarifying-you-and-your "Clarifying "You" and "Your")
-- [Section 2 – Scope](section-2---scope "Section 2 - Scope")
-  - [License grant](a-license-grant "License grant")
-  - [Other rights](b-other-rights "Other rights")
-- [Section 3 – License Conditions](section-3---license-conditions "Section 3 - License Conditions")
-  - [Attribution](a-attribution "Attribution")
-- [Section 4 – Sui Generis Database Rights](section-4---sui-generis-database-rights "Sui Genersis Database Rights")
-- [Section 5 – Disclaimer of Warranties and Limitation of Liability](section-5---disclaimer-of-warranties-and-limitation-of-liability "Section 5 - Disclaimer of Warranties and Limitation of Liability")
-- [Section 6 – Term and Termination](section-6---term-and-termination "Section 6 - Term and Termination")
-- [Section 7 – Other Terms and Conditions](section-7---other-terms-and-conditions "Section 7 - Other Terms and Conditions")
-- [Section 8 – Interpretation](section-8---interpretation "Section 8 - Interpretation")
+- [Section 1 - Definitions.](#section-1---definitions "Section 1 - Definitions")
+  - [Adapted Material](#a-adapted-material "Adapted Material")
+  - [Copyright and Similar Rights](#b-copyright-and-similar-rights "Copyright and Similar Rights")
+  - [Effective Technological Measures](#c-effective-technological-measures "Effective Technological Measures")
+  - [Exceptions and Limitations](#d-exceptions-and-limitations "Exceptions and Limitations")
+  - [Licensed Material](#e-licensed-material "Licensed Material")
+  - [Licensed Rights](#f-licensed-rights "Licensed Rights")
+  - [Licensor](#g-licensor "Licensor")
+  - [NonCommercial](#h-noncommercial "NonCommercial")
+  - [Share](#i-share "Share")
+  - [Sui Generis Database Rights](#j-sui-generis-database-rights "Sui Genersis Database Rights")
+  - [Clarifying "You" and "Your"](#k-clarifying-you-and-your "Clarifying "You" and "Your")
+- [Section 2 – Scope](#section-2---scope "Section 2 - Scope")
+  - [License grant](#a-license-grant "License grant")
+  - [Other rights](#b-other-rights "Other rights")
+- [Section 3 – License Conditions](#section-3---license-conditions "Section 3 - License Conditions")
+  - [Attribution](#a-attribution "Attribution")
+- [Section 4 – Sui Generis Database Rights](#section-4---sui-generis-database-rights "Sui Genersis Database Rights")
+- [Section 5 – Disclaimer of Warranties and Limitation of Liability](#section-5---disclaimer-of-warranties-and-limitation-of-liability "Section 5 - Disclaimer of Warranties and Limitation of Liability")
+- [Section 6 – Term and Termination](#section-6---term-and-termination "Section 6 - Term and Termination")
+- [Section 7 – Other Terms and Conditions](#section-7---other-terms-and-conditions "Section 7 - Other Terms and Conditions")
+- [Section 8 – Interpretation](#section-8---interpretation "Section 8 - Interpretation")
 </details>
 
 <!-- s1 -->
 <details>
-<summary>Section 1 - Definitions.</summary>
-<summary>a. **Adapted Material**</summary>
+<summary>### Section 1 - Definitions.</summary>
+<summary>#### a. **Adapted Material**</summary>
 Your material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
-<summary>b. **Copyright and Similar Rights**</summary>
+<summary>#### b. **Copyright and Similar Rights**</summary>
 Your copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section [2(b)(1)-(2)](s2b) are not Copyright and Similar Rights.
-<summmary>c. **Effective Technological Measures**</summary>
+<summmary>#### c. **Effective Technological Measures**</summary>
 With effective technological measures, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
-<summary>d. **Exceptions and Limitations**</summary>
+<summary>#### d. **Exceptions and Limitations**</summary>
 Please use, dealing Your license fairly, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your Licensed Material.
-<summary>e. **Licensed Material**</summary>
+<summary>#### e. **Licensed Material**</summary>
 Your artistic or literary work, database, or other material are Licensor applied to this Public License.
-</summary>f. **Licensed Rights**</summary>
+</summary>#### f. **Licensed Rights**</summary>
 You have rights granted to, subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that You use of the Licensed Material and that You have authorised to license.
-<summary>g. **Licensor**</summary>
+<summary>#### g. **Licensor**</summary>
 The individual(s) or entity(ies) are rights grantor, granting under this Public License.
-<summary>h. **NonCommercial**</summary>
+<summary>#### h. **NonCommercial**</summary>
 It is not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this Public License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
-<summary>i. **Share**<summary>
+<summary>#### i. **Share**<summary>
 The material you provided to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
-<summary>j. **Sui Generis Database Rights**</symmary>
+<summary>#### j. **Sui Generis Database Rights**</symmary>
 Your rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
-<summary>k. **Clarifying "You" and "Your"**</summary>
+<summary>#### k. **Clarifying "You" and "Your"**</summary>
 **"You"** means the individual or entity exercising the Licensed Rights under this Public License.
 **"Your"** has a corresponding meaning.
 </details>
 <!-- s2 -->
 <details>
-<summary>Section 2 - Scope.</summary>
+<summary>### Section 2 - Scope.</summary>
 
 <details>
- <summary>a. **_License grant_**.</summary>
+ <summary>#### a. **_License grant_**.</summary>
 
  <summary>1.  Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:</summary>
     A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and  
@@ -104,7 +104,7 @@ Your rights other than copyright resulting from Directive 96/9/EC of the Europea
 </details>
 
 <details>
-<summary>b. **_Other rights_**.</summary>
+<summary>#### b. **_Other rights_**.</summary>
   1.  Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
   2.  Patent and trademark rights are not licensed under this Public License.
   3.  To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
@@ -114,11 +114,11 @@ Your rights other than copyright resulting from Directive 96/9/EC of the Europea
 
 <details>
 <!-- s3 -->
-<summary>Section 3 - License Conditions.</summary>
+<summary>#### Section 3 - License Conditions.</summary>
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 <details>
-<summary>a. **_Attribution_**</summary>
+<summary>#### a. **_Attribution_**</summary>
   <summary>1.  If You Share the Licensed Material, You must:</summary>
     <summary>A. retain the following if it is supplied by the Licensor with the Licensed Material:</summary>
       i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
@@ -138,7 +138,7 @@ For the avoidance of doubt, You do not have permission under this Public License
 
 <details>
 <!-- s4 -->
-<summary>Section 4 - Sui Generis Database Rights.</summary>
+<summary>### Section 4 - Sui Generis Database Rights.</summary>
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:  
 a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only and provided You do not Share Adapted Material;  
@@ -149,7 +149,7 @@ For the avoidance of doubt, this Section [4](s4) supplements and does not replac
 
 <details>
 <!-- s5 -->
-<summary>Section 5 - Disclaimer of Warranties and Limitation of Liability.</summary>
+<summary>### Section 5 - Disclaimer of Warranties and Limitation of Liability.</summary>
 
 a. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**  
 b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**  
@@ -158,7 +158,7 @@ c. The disclaimer of warranties and limitation of liability provided above shall
 
 <details>
 <!-- s6 -->
-<summary>Section 6 - Term and Termination.</summary>
+<summary>### Section 6 - Term and Termination.</summary>
 
 a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.  
 <summary>b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:</summary>
@@ -174,7 +174,7 @@ d. Sections [1](s1), [5](s5), [6](s6), [7](s7), and [8](s8) survive termination 
 
 <details>
 <!-- s7 -->
-<summary>Section 7 - Other Terms and Conditions.</summary>
+<summary>### Section 7 - Other Terms and Conditions.</summary>
 
 a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
 b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
@@ -182,7 +182,7 @@ b. Any arrangements, understandings, or agreements regarding the Licensed Materi
 
 <details>
 <!-- s8 -->
-<summary>Section 8 - Interpretation.</summary>
+<summary>### Section 8 - Interpretation.</summary>
 
 a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.  
 b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.  
