@@ -26,7 +26,7 @@ viewport: width=device-width, height=device-height, initial-scale=1
 <!-- CC-BY-NC-ND 4.0: END EXCLUDED SECTION -->
 
 <details>
-<summary>### 知识共享 （ Creative Commons ） 署名—非商业性使用—禁止演绎     4.0公共许可协议国际版 - 内容目录</summary>
+<summary>知识共享 （ Creative Commons ） 署名—非商业性使用—禁止演绎     4.0公共许可协议国际版 - 内容目录</summary>
 
 * [第一条 定义](#第一条-定义 "第一条 定义")
   - [演绎作品(Adapted Material)](#s1a "演绎作品(Adapted Material)")
