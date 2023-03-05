@@ -28,6 +28,7 @@ Edited By: Mr. Alice King Tai Poon from Mr. Poon's Studio
 
 <details>
 <summary>Contents - Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License</summary>
+  
 - [Section 1 - Definitions.](#section-1---definitions "Section 1 - Definitions")
   - [Adapted Material](#a-adapted-material "Adapted Material")
   - [Copyright and Similar Rights](#b-copyright-and-similar-rights "Copyright and Similar Rights")
