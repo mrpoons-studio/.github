@@ -113,9 +113,9 @@ b. **_其他权利_**
 ### 第三条 授权条件
 
 您行使被许可的权利明确受以下条件限制：
-<detail>
 
-<summary>a. **若要分享授权作品，务必马上署名**</summary>
+a. **若要分享授权作品，务必马上署名**
+<detail>
   <summary>1.  若您分享本授权作品（ Licensed Material ），您必须：</summary>
     <summary>A. 保留如下标识（如果许可人提供授权作品（ Licensed Material ）的同时提供如下标识）：</summary>
       i. 以许可人要求的任何合理方式，标识本授权作品（ Licensed Material ）创作者和其他被指定署名的人的身份（包括指定的真实姓名）；
