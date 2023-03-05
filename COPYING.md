@@ -79,22 +79,24 @@ Your rights other than copyright resulting from Directive 96/9/EC of the Europea
 
 ### Section 2 - Scope.
 #### a. **_License grant_**.
-  <detail>
+  <details>
   <summary>1.  Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:</summary>
     A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and  
     B. produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.
-  </detail>
-  2.  **Exceptions and Limitations**. 
+  </details>
+  2.  **Exceptions and Limitations.**
   For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
-  3.  **Term**. 
+  3.  **Term.**
   The term of this Public License is specified in Section 6(a).
-  4.  **Media and formats; technical modifications allowed**. 
+  4.  **Media and formats; technical modifications allowed.** 
   The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section [2(a)(4)](s2a4) never produces Adapted Material.
-  <summary>5.  **Downstream recipients**.</summary>
+  <details>
+  <summary>5.  **Downstream recipients.**</summary>
       A. **Offer from the Licensor – Licensed Material**. 
       Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.  
       B. **No downstream restrictions.** 
       You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+    </details>
   6.  **No endorsement.** 
   Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
@@ -106,7 +108,7 @@ Your rights other than copyright resulting from Directive 96/9/EC of the Europea
 #### Section 3 - License Conditions.
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 #### a. **_Attribution_**
-<detail>
+<details>
   <summary>1.  If You Share the Licensed Material, You must:</summary>
     <summary>A. retain the following if it is supplied by the Licensor with the Licensed Material:</summary>
       i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
@@ -116,20 +118,20 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
       v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;  
     B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and  
     C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
-</detail>
+</details>
 For the avoidance of doubt, You do not have permission under this Public License to Share Adapted Material.
 
   2.  You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
   3.  If requested by the Licensor, You must remove any of the information required by Section [3(a)(1)(A)](s3a1A) to the extent reasonably practicable.
 
 ### Section 4 - Sui Generis Database Rights.
-<detail>
+<details>
 <summary>Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:</summary>
 a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only and provided You do not Share Adapted Material;  
 b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and  
 c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.  
 For the avoidance of doubt, this Section [4](s4) supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
-</detail>
+</details>
 
 ### Section 5 - Disclaimer of Warranties and Limitation of Liability.
 
@@ -140,9 +142,8 @@ c. The disclaimer of warranties and limitation of liability provided above shall
 ### Section 6 - Term and Termination.
 
 a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
-<detail>
+<details>
 <summary>b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:</summary>
-
   1.  automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
   2.  upon express reinstatement by the Licensor.
 <detail>
@@ -162,7 +163,6 @@ a. For the avoidance of doubt, this Public License does not, and shall not be in
 b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.  
 c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.  
 d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
-</details>
 
 > Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the "Licensor." The text of the Creative Commons public licenses is dedicated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 > Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the [Creative Commons policies](https://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark "Creative Commons" or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
