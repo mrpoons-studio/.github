@@ -182,7 +182,7 @@ c. The disclaimer of warranties and limitation of liability provided above shall
 
 ### Section 6 - Term and Termination.
 
-a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, Your rights under this Public License terminate automatically.
+a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, Your rights under this Public License terminate automatically if You fail to comply with this Public License.
 
 <details>
 <summary>b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:</summary>
